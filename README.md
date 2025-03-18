@@ -15,7 +15,6 @@ O principal objetivo deste desafio é fortalecer suas habilidades em lógica de 
    git clone https://github.com/annacaetano/challenge-amigo-secreto_pt.git
    
 2. Navegue até o diretório do projeto:
-
 cd challenge-amigo-secreto_pt
 
 Execute o código no seu ambiente de desenvolvimento.
